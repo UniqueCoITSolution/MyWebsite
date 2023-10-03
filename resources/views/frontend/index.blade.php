@@ -99,8 +99,7 @@
 
         <div class="section-title">
           <h2 data-aos="fade-in">Services</h2>
-          <p data-aos="fade-in">Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
-        </div>
+          <p data-aos="fade-in">Information technology (IT) services are the services that allow businesses to access the technical tools and information they use for their operational processes and daily tasks. Often, teams with expertise in IT or computer science manage these services for organizations in many industries. Depending on an organization's business type, IT services team can either comprise internal teams or external IT teams.     </div>
 
         <div class="row">
           <div class="col-md-6 d-flex" data-aos="fade-right">
@@ -109,8 +108,8 @@
                 <img src="assets/img/services-1.jpg" alt="...">
               </div>
               <div class="card-body">
-                <h5 class="card-title"><a href="">Temporibus laudantium</a></h5>
-                <p class="card-text">Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat</p>
+                <h5 class="card-title"><a href="">Cloud services</a></h5>
+                <p class="card-text">Cloud services provide many ways for business team members to interact with the technology they need. The cloud is an internet-connected platform that can store and access information and programs. Since the cloud stores the information instead of holding it on a computer, team members can access and use it whether at home or in the office. Some cloud services can even run operation systems remotely, allowing team members to use internal business programs remotely without installing them on their computers.</p>
                 <div class="read-more"><a href="#"><i class="bi bi-arrow-right"></i> Read More</a></div>
               </div>
             </div>
@@ -121,8 +120,10 @@
                 <img src="assets/img/services-2.jpg" alt="...">
               </div>
               <div class="card-body">
-                <h5 class="card-title"><a href="">Aperiores voluptates</a></h5>
-                <p class="card-text">Sed ut perspiciatis unde omnis iste natus error sit voluptatem doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo</p>
+                <h5 class="card-title"><a href="">Software Development</a></h5>
+                <p class="card-text">Our software teams help our customers build  customized software - everything from web to desktop to enterprise to mobile and beyond.  
+
+We hire only the best. Our culture helps us retain our talents and our skill development programs ensure that we are always on the top of recent developments. Whether they are in, mobile application development or building web apps or custom desktop tools, our clients get top professionals working for them.</p>
                 <div class="read-more"><a href="#"><i class="bi bi-arrow-right"></i> Read More</a></div>
               </div>
             </div>
@@ -134,8 +135,8 @@
                 <img src="assets/img/services-3.jpg" alt="...">
               </div>
               <div class="card-body">
-                <h5 class="card-title"><a href="">Veritatis natus nisi</a></h5>
-                <p class="card-text">Nemo enim ipsam voluptatem quia voluptas sit aut odit aut fugit, sed quia magni dolores eos qui ratione voluptatem sequi nesciunt Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet</p>
+                <h5 class="card-title"><a href="">Mobile Development</a></h5>
+                <p class="card-text">We count on our technically sound expert developers for the ability to understand your ideas and transform them into reality. We offer cutting-edge research, HCD UI & UX design, and development for the mobile application to match unique project requirements.</p>
                 <div class="read-more"><a href="#"><i class="bi bi-arrow-right"></i> Read More</a></div>
               </div>
             </div>
@@ -146,8 +147,8 @@
                 <img src="assets/img/services-4.jpg" alt="...">
               </div>
               <div class="card-body">
-                <h5 class="card-title"><a href="">Aliquam veritatis</a></h5>
-                <p class="card-text">Nostrum eum sed et autem dolorum perspiciatis. Magni porro quisquam laudantium voluptatem. In molestiae earum ab sit esse voluptatem. Eos ipsam cumque ipsum officiis qui nihil aut incidunt aut</p>
+                <h5 class="card-title"><a href="">Digital Marketing</a></h5>
+                <p class="card-text">Increase Revenue With Riseup Labs Digital Marketing Services. More Traffic. More Leads. More Conversion. More Sales. More revenue. More Business. It is the beauty of Riseup Labs Digital Marketing Services. We are helping our clients worldwide engage unlimited traffic for their business and convert them into revenue.</p>
                 <div class="read-more"><a href="#"><i class="bi bi-arrow-right"></i> Read More</a></div>
               </div>
             </div>
