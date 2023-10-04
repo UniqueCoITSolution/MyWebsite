@@ -2,7 +2,8 @@
     <div class="container d-flex align-items-center justify-content-between">
 
       <div class="logo">
-        <h1><a href="index.html">Bocor<span>.</span></a></h1>
+        <!-- <h1><a href="index.html">UniqueCo IT Solution<span>.</span></a></h1> -->
+        <img src="{{ asset('assets/img/logo.jpg') }}" alt="UniqueCo Logo" class="img-fluid">
         <!-- Uncomment below if you prefer to use an image logo -->
         <!-- <a href="index.html"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
       </div>

@@ -13,7 +13,7 @@
 
           <div class="col-lg-2 col-md-4 col-6">
             <div class="client-logo">
-              <img src="assets/img/clients/client-1.png" class="img-fluid" alt="" data-aos="flip-right">
+              <img src="{{ asset('assets/img/clients/client-1.png') }}" class="img-fluid" alt="" data-aos="flip-right">
             </div>
           </div>
 
@@ -595,7 +595,7 @@ We hire only the best. Our culture helps us retain our talents and our skill dev
 
         <div class="section-title">
           <h2>Contact</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <p>At UniqueCo IT Solution we are committed to our customers’ success. That’s why we invest heavily in customer service and support, reaffirming our long-term commitment to successful customer implementations. We maintain a dynamic quality system for all our development and production processes that is the key in adding value for our customers.</p>
         </div>
 
         <div class="row">
@@ -607,21 +607,21 @@ We hire only the best. Our culture helps us retain our talents and our skill dev
                 <div class="info-box" data-aos="fade-up">
                   <i class="bx bx-map"></i>
                   <h3>Our Address</h3>
-                  <p>A108 Adam Street, New York, NY 535022</p>
+                  <p>2 Bir Uttam AK Khandakar Road, Dhaka, Bangladesh</p>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="info-box mt-4" data-aos="fade-up" data-aos-delay="100">
                   <i class="bx bx-envelope"></i>
                   <h3>Email Us</h3>
-                  <p>info@example.com<br>contact@example.com</p>
+                  <p>info.uniquecoit@gmail.com<br>info.uniquecoit@gmail.com</p>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="info-box mt-4" data-aos="fade-up" data-aos-delay="100">
                   <i class="bx bx-phone-call"></i>
                   <h3>Call Us</h3>
-                  <p>+1 5589 55488 55<br>+1 6678 254445 41</p>
+                  <p>+88 01810-218499<br>+88 01965-612214</p>
                 </div>
               </div>
             </div>
@@ -631,6 +631,7 @@ We hire only the best. Our culture helps us retain our talents and our skill dev
           <div class="col-lg-6 mt-4 mt-lg-0">
             <form action="forms/contact.php" method="post" role="form" class="php-email-form w-100" data-aos="fade-up">
               <div class="row">
+             
                 <div class="col-md-6 form-group">
                   <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" required>
                 </div>
@@ -639,8 +640,12 @@ We hire only the best. Our culture helps us retain our talents and our skill dev
                 </div>
               </div>
               <div class="form-group mt-3">
+                <input type="text" class="form-control" name="company" id="company" placeholder="company" required>
+              </div>
+              <div class="form-group mt-3">
                 <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" required>
               </div>
+              
               <div class="form-group mt-3">
                 <textarea class="form-control" name="message" rows="5" placeholder="Message" required></textarea>
               </div>

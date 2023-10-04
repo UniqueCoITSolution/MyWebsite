@@ -28,7 +28,19 @@
   <!-- Template Main CSS File -->
   <link href="{{ asset('assets/css/style.css') }}" rel="stylesheet">
 
+  <style>
+    .logo {
+    text-align: center;
+    padding: 20px;
+}
 
+/* Style for the image logo */
+.logo img {
+    width: 100px; /* Adjust the size as needed */
+    height: 400px; 
+    
+}
+  </style>
 
   <!-- =======================================================
   * Template Name: Bocor
